@@ -1,0 +1,220 @@
+body{
+  letter-spacing: 1px;
+}
+header {
+    background-color:black;
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    text-decoration: underline;
+  }
+  img.logo {
+    height: 60px;
+    width: 100%;
+    display: block;
+}
+.search-input{
+    border: none;
+    font-size: 14px;
+}
+button.btn.btn-dark {
+    background: black;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 0;
+}
+.card-section{
+  padding: 60px;
+}
+.card-logo{
+  height: 80px;
+}
+.card-head{
+  font-size: 22px;
+    text-transform: capitalize;
+    color: black;
+}
+.card-small-sec{
+padding: 0 20px;
+}
+.text-justify{
+  text-align: justify;
+}
+.form-inline{
+    width: 100% !important;
+}
+.form-inline .form-control {
+        width: 98% !important;
+    }
+button.btn.btn-dark-border{
+background: transparent;
+color: black;
+border: 1px solid black;
+font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 0;
+}
+.float-right{
+  float: right;
+}
+.font-14{
+  font-size: 14px;
+}
+button.btn.btn-dark-simple{
+    background: transparent;
+    color: black;
+    font-size: 18px;
+        padding: 10px 20px;
+        border-radius: 0;
+    }
+    .right-section-navbar{
+        float: right;
+    text-align: right;
+    }
+  nav {
+  color: rgb(3, 2, 2);
+  font-size: 15px;
+  }
+  ul{
+      font-weight: bold;
+  }
+  #search {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  #centered {
+    position: absolute;
+    left: 47%;
+  padding:0px 40px 500px 40px;
+    transform: translate(-50%, -50%);
+   color: white;
+  
+  }
+  .content {  position: absolute;
+    left: 47%;
+  padding:0px 40px 350px 40px;
+  transform: translate(-50%, -50%);
+       color:white;
+       font-size: medium;
+       font-family: Arial, Helvetica, sans-serif;
+       text-align: center;
+  }
+  
+  h1{
+    font-weight: bolder;
+    text-align: center;
+   
+    }
+    #free, #pro,#enterprise,#pkgsafe{
+      font-weight: bold;
+      text-transform: lowercase;
+      font-size: medium;
+      
+    }
+    .learn {
+    border-color: black;
+    color: black;
+    padding: 7px 30px 25px;
+    text-align: center;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 45px;
+    font-weight: bold;
+    height: 5px;
+    text-transform: uppercase;
+    background-color: #fff;
+  }
+  #bring {
+  padding-left: 5%;
+   color: black;
+  }
+  #para{
+    padding-left: 28%;
+    font-size: 16px;
+  }
+  #stone{
+    padding-left: 47%;
+  }
+  
+  #amazing{
+    position: absolute;
+    left: 47%;
+  padding:10px 40px 1300px 40px;
+    transform: translate(-50%, -50%);
+   color: white;
+   font-size: 70px;
+  }
+  #des{
+    position: absolute;
+    left: 47%;
+   padding:10px 40px 980px 40px;
+    transform: translate(-50%, -50%);
+   color: white;
+   font-size: 17px;
+   text-align: center;
+  }
+  #js{
+    position: absolute;
+    left: 47%;
+    padding:10px 40px 830px 40px;
+    transform: translate(-50%, -50%);
+    color: white;
+   font-size: 40px;
+   text-align: center;
+   font-weight: bold;
+  
+  }
+  #get{
+    position: absolute;
+    left: 47%;
+   padding:10px 40px 600px 40px;
+    transform: translate(-50%, -50%);
+   color: white;
+   font-size: 17px;
+   text-align: center;
+  }
+    #center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  
+  footer{
+  
+       padding:70px 0px;
+  }	  
+  footer ul li{
+      padding:5px 0px;
+  }
+  
+  .help span , .about span , .terms span{
+     font-weight: 800; 
+     padding-bottom: 10px; 
+     margin-bottom: 20px;
+     display: block;
+     text-transform: uppercase;
+     font-size: 20px;
+     letter-spacing: 3px;
+  }
+   
+  .help li , .about li , .terms li{
+      letter-spacing: 2px;
+      font-weight: lighter;
+      font-size:15px;
+      list-style: none;
+  }
+  
